@@ -8,11 +8,10 @@
   <img src="https://avatars.githubusercontent.com/theiriscloud" width="130" style="border-radius: 50%; border: 2px solid #00FFAA; box-shadow: 0 0 20px rgba(0,255,170,0.3);" />
 </div>
 
-
 ### about me
 
 - 🌱 currently learning **Laravel, Python, JavaScript**
-- 🔭 latest project: **[habit-tracker](https://github.com/theiriscloud/habit-tracker)** – glassmorphism UI, mood notes, analytics
+- 🔭 my latest project: **[habit-tracker](https://github.com/theiriscloud/habit-tracker-with-notes)** – glassmorphism UI, mood notes, analytics
 - 💡 love **clean design, meaningful UX, and organized code**
 
 ### tech stack
@@ -27,14 +26,14 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📌a new project
+### a new project
 
-#### [habit-tracker](https://github.com/theiriscloud/habit-tracker)
+#### [habit-tracker](https://github.com/theiriscloud/habit-tracker-with-notes)
 
 > Minimalist habit tracker with glassmorphism, mood notes, and analytics charts.  
 > Built with Laravel 8.
 
 - ✅ 30‑day log (green ✓ / red ✗)
-- 📝 notes & mood per day
+- 📝 notes and mood per day
 - 📊 individual habit chart + pie chart
 - 🧊 glassmorphism design, fully responsive
