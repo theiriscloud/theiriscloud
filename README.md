@@ -32,7 +32,7 @@
 #### [habit-tracker](https://github.com/theiriscloud/habit-tracker)
 
 > Minimalist habit tracker with glassmorphism, mood notes, and analytics charts.  
-> Built with Laravel 8, Chart.js, AJAX.
+> Built with Laravel 8.
 
 - ✅ 30‑day log (green ✓ / red ✗)
 - 📝 notes & mood per day
