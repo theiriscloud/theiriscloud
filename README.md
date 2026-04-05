@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+codeiris;Web+development+student;Glassmorphism+habit+tracker;Laravel+%2B+Python+%2B+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+codeiris;Web+development+student;Clean+code+%2B+glassmorphism" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,12 +8,12 @@
   <img src="https://avatars.githubusercontent.com/theiriscloud" width="130" style="border-radius: 50%; border: 2px solid #00FFAA; box-shadow: 0 0 20px rgba(0,255,170,0.3);" />
 </div>
 
+
 ### about me
 
 - 🌱 currently learning **Laravel, Python, JavaScript**
 - 🔭 latest project: **[habit-tracker](https://github.com/theiriscloud/habit-tracker)** – glassmorphism UI, mood notes, analytics
 - 💡 love **clean design, meaningful UX, and organized code**
-
 
 ### tech stack
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📌a new project 
+### 📌a new project
 
 #### [habit-tracker](https://github.com/theiriscloud/habit-tracker)
 
