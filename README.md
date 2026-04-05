@@ -5,10 +5,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/theiriscloud" width="130" style="border-radius: 50%; border: 2px solid rgba(0, 255, 170, 0.6); box-shadow: 0 0 20px rgba(0,255,170,0.3);" />
+  <img src="https://avatars.githubusercontent.com/theiriscloud" width="130" style="border-radius: 50%; border: 2px solid #00FFAA; box-shadow: 0 0 20px rgba(0,255,170,0.3);" />
 </div>
-
----
 
 ### about me
 
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
 ### 📌 project spotlight
 
 #### [habit-tracker](https://github.com/theiriscloud/habit-tracker)
@@ -41,17 +38,3 @@
 - 📝 notes & mood per day
 - 📊 individual habit chart + pie chart
 - 🧊 glassmorphism design, fully responsive
-
-
-### 📈 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theiriscloud&show_icons=true&theme=dark&bg_color=0a0f0f&title_color=00FFAA&icon_color=00FFAA" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theiriscloud&layout=compact&theme=dark&bg_color=0a0f0f&title_color=00FFAA" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theiriscloud&color=00FFAA&style=flat-square" alt="profile views" />
-</p>
